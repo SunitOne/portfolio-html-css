@@ -6,6 +6,9 @@ Ele foi criado com o objetivo de praticar conceitos fundamentais de desenvolvime
 ---
 
 ## 📸 Preview
+<p align="center">
+  <img src="URL_da_Imagem" alt="Minha Imagem Centralizada" width="300"/>
+</p>
 ![Preview do projeto](assets/preview.png)
 
 ---
